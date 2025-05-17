@@ -653,7 +653,7 @@ pokemon	SPECIES_PHANTUMP
 pokemon	SPECIES_SANDYGAST
 pokemon	SPECIES_GREAVARD
 pokemon	SPECIES_HONEDGE
-encounterwithform	SPECIES_ZORUA, 1
+monwithform SPECIES_ZORUA, 1
 pokemon	SPECIES_GIMMIGHOUL
 
 // day encounter slots
@@ -667,7 +667,7 @@ pokemon	SPECIES_PHANTUMP
 pokemon	SPECIES_SANDYGAST
 pokemon	SPECIES_GREAVARD
 pokemon	SPECIES_HONEDGE
-encounterwithform	SPECIES_ZORUA, 1
+monwithform SPECIES_ZORUA, 1
 pokemon	SPECIES_GIMMIGHOUL
 
 // night encounter slots
@@ -681,7 +681,7 @@ pokemon	SPECIES_PHANTUMP
 pokemon	SPECIES_SANDYGAST
 pokemon	SPECIES_GREAVARD
 pokemon	SPECIES_HONEDGE
-encounterwithform	SPECIES_ZORUA, 1
+monwithform SPECIES_ZORUA, 1
 pokemon	SPECIES_GIMMIGHOUL
 
 // hoenn encounter slots
@@ -5540,7 +5540,7 @@ pokemon	SPECIES_TIMBURR
 pokemon	SPECIES_MIENFOO
 pokemon	SPECIES_PANCHAM
 pokemon	SPECIES_STUFFUL
-encounterwithform	SPECIES_SNEASEL, 1
+monwithform SPECIES_SNEASEL, 1
 pokemon	SPECIES_MEDITITE
 pokemon SPECIES_MARILL
 
@@ -5554,7 +5554,7 @@ pokemon	SPECIES_TIMBURR
 pokemon	SPECIES_MIENFOO
 pokemon	SPECIES_PANCHAM
 pokemon	SPECIES_STUFFUL
-encounterwithform	SPECIES_SNEASEL, 1
+monwithform SPECIES_SNEASEL, 1
 pokemon	SPECIES_MEDITITE
 pokemon SPECIES_MARILL
 
@@ -5568,7 +5568,7 @@ pokemon	SPECIES_TIMBURR
 pokemon	SPECIES_MIENFOO
 pokemon	SPECIES_PANCHAM
 pokemon	SPECIES_STUFFUL
-encounterwithform	SPECIES_SNEASEL, 1
+monwithform SPECIES_SNEASEL, 1
 pokemon	SPECIES_MEDITITE
 pokemon SPECIES_MARILL
 
@@ -6270,7 +6270,7 @@ pokemon	SPECIES_CETODDLE
 pokemon	SPECIES_SNEASEL
 pokemon	SPECIES_SNOVER
 pokemon	SPECIES_SMOOCHUM
-encounterwithform	SPECIES_SANDSHREW, 1
+monwithform SPECIES_SANDSHREW, 1
 
 // day encounter slots
 pokemon	SPECIES_SWINUB
@@ -6284,7 +6284,7 @@ pokemon	SPECIES_CETODDLE
 pokemon	SPECIES_SNEASEL
 pokemon	SPECIES_SNOVER
 pokemon	SPECIES_SMOOCHUM
-encounterwithform	SPECIES_SANDSHREW, 1
+monwithform SPECIES_SANDSHREW, 1
 
 // night encounter slots
 pokemon	SPECIES_SWINUB
@@ -6298,7 +6298,7 @@ pokemon	SPECIES_CETODDLE
 pokemon	SPECIES_SNEASEL
 pokemon	SPECIES_SNOVER
 pokemon	SPECIES_SMOOCHUM
-encounterwithform	SPECIES_SANDSHREW, 1
+monwithform SPECIES_SANDSHREW, 1
 
 // hoenn encounter slots
 pokemon SPECIES_ABSOL
@@ -6367,9 +6367,9 @@ pokemon SPECIES_SWINUB
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SWINUB
 pokemon SPECIES_GOLBAT
-encounterwithform SPECIES_VULPIX, 1
+monwithform SPECIES_VULPIX, 1
 pokemon SPECIES_ZUBAT
-encounterwithform SPECIES_DARUMAKA, 1
+monwithform SPECIES_DARUMAKA, 1
 pokemon SPECIES_SWINUB
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_JYNX
@@ -6381,9 +6381,9 @@ pokemon SPECIES_SWINUB
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SWINUB
 pokemon SPECIES_GOLBAT
-encounterwithform SPECIES_VULPIX, 1
+monwithform SPECIES_VULPIX, 1
 pokemon SPECIES_ZUBAT
-encounterwithform SPECIES_DARUMAKA, 1
+monwithform SPECIES_DARUMAKA, 1
 pokemon SPECIES_SWINUB
 pokemon SPECIES_JYNX
 pokemon SPECIES_JYNX
@@ -6395,9 +6395,9 @@ pokemon SPECIES_SWINUB
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SWINUB
 pokemon SPECIES_GOLBAT
-encounterwithform SPECIES_VULPIX, 1
+monwithform SPECIES_VULPIX, 1
 pokemon SPECIES_ZUBAT
-encounterwithform SPECIES_DARUMAKA, 1
+monwithform SPECIES_DARUMAKA, 1
 pokemon SPECIES_SWINUB
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_JYNX
@@ -7204,9 +7204,9 @@ pokemon	SPECIES_ROGGENROLA
 pokemon	SPECIES_WOOBAT
 pokemon	SPECIES_ROLYCOLY
 pokemon	SPECIES_NACLI
-encounterwithform	SPECIES_ROCKRUFF, 1
-encounterwithform	SPECIES_GEODUDE, 1
-encounterwithform	SPECIES_GROWLITHE, 1
+monwithform SPECIES_ROCKRUFF, 1
+monwithform SPECIES_GEODUDE, 1
+monwithform SPECIES_GROWLITHE, 1
 
 // day encounter slots
 pokemon	SPECIES_ARON
@@ -7218,9 +7218,9 @@ pokemon	SPECIES_ROGGENROLA
 pokemon	SPECIES_WOOBAT
 pokemon	SPECIES_ROLYCOLY
 pokemon	SPECIES_NACLI
-encounterwithform	SPECIES_ROCKRUFF, 1
-encounterwithform	SPECIES_GEODUDE, 1
-encounterwithform	SPECIES_GROWLITHE, 1
+monwithform SPECIES_ROCKRUFF, 1
+monwithform SPECIES_GEODUDE, 1
+monwithform SPECIES_GROWLITHE, 1
 
 // night encounter slots
 pokemon	SPECIES_ARON
@@ -7232,9 +7232,9 @@ pokemon	SPECIES_ROGGENROLA
 pokemon	SPECIES_WOOBAT
 pokemon	SPECIES_ROLYCOLY
 pokemon	SPECIES_NACLI
-encounterwithform	SPECIES_ROCKRUFF, 1
-encounterwithform	SPECIES_GEODUDE, 1
-encounterwithform	SPECIES_GROWLITHE, 1
+monwithform SPECIES_ROCKRUFF, 1
+monwithform SPECIES_GEODUDE, 1
+monwithform SPECIES_GROWLITHE, 1
 
 // hoenn encounter slots
 pokemon SPECIES_ABSOL
