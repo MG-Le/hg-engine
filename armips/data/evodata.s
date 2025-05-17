@@ -14049,7 +14049,7 @@ evodata SPECIES_CORSOLA_GALARIAN
 terminateevodata
 
 evodata SPECIES_ZIGZAGOON_GALARIAN
-    evolutionwithform EVO_LEVEL, 20, SPECIES_LINOONE_GALARIAN, 1
+    evolutionwithform EVO_LEVEL, 20, SPECIES_LINOONE, 0
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
