@@ -118,6 +118,7 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_ULTRA_BALL
 .halfword ITEM_LUCKY_EGG
 .halfword ITEM_AMULET_COIN
+.halfword ITEM_RARE_CANDY
 .halfword 0xFFFF
 
 /* const u16 _020FBA5A[] = {ITEM_AIR_MAIL, ITEM_QUICK_BALL, 0xFFFF}; */
