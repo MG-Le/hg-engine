@@ -17,7 +17,7 @@ EIGHT_BADGES equ 6
 /* General Poké Mart Table */
 .org 0x020FBF22
 
-.halfword ITEM_LONELY_MINT
+.halfword ITEM_POKE_BALL
 .halfword ZERO_BADGES
 
 .halfword ITEM_GREAT_BALL
@@ -26,7 +26,7 @@ EIGHT_BADGES equ 6
 .halfword ITEM_ULTRA_BALL
 .halfword THREE_BADGES
 
-.halfword ITEM_ADAMANT_MINT
+.halfword ITEM_POTION
 .halfword ZERO_BADGES
 
 .halfword ITEM_SUPER_POTION
@@ -214,6 +214,7 @@ const u16 *_0210FA3C[] = {
 /* Goldenrod Dept Store 2F & Celadon Dept Store 2F -> Chansey Supply 2 */
 .halfword ITEM_PP_UP
 .halfword ITEM_ABILITY_CAPSULE
+.halfword ITEM_ABILITY_PATCH
 .halfword ITEM_LONELY_MINT
 .halfword ITEM_ADAMANT_MINT
 .halfword ITEM_NAUGHTY_MINT
@@ -223,8 +224,8 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_LAX_MINT
 .halfword ITEM_RELAXED_MINT
 .halfword ITEM_MODEST_MINT
-.halfword ITEM_MILD_MINT
 
+.halfword ITEM_MILD_MINT
 .halfword ITEM_RASH_MINT
 .halfword ITEM_QUIET_MINT
 .halfword ITEM_CALM_MINT
@@ -236,7 +237,6 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_JOLLY_MINT
 .halfword ITEM_NAIVE_MINT
 .halfword ITEM_SERIOUS_MINT
-.halfword 0xFFFF
 
 /* const u16 _020FBC1A[] = {ITEM_POKE_BALL, ITEM_GREAT_BALL, ITEM_ULTRA_BALL, ITEM_ESCAPE_ROPE, ITEM_POKE_DOLL, ITEM_REPEL, ITEM_SUPER_REPEL, ITEM_MAX_REPEL, ITEM_GRASS_MAIL, ITEM_FLAME_MAIL, ITEM_BUBBLE_MAIL, ITEM_SPACE_MAIL, 0xFFFF}; */
 
@@ -250,11 +250,11 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_THUNDER_STONE
 .halfword ITEM_WATER_STONE
 .halfword ITEM_LEAF_STONE
+.halfword ITEM_SHINY_STONE
+.halfword ITEM_DUSK_STONE
+.halfword ITEM_DAWN_STONE
 .halfword ITEM_ICE_STONE
 .halfword ITEM_EVERSTONE
-.halfword 0xFFFF
-.halfword 0xFFFF
-.halfword 0xFFFF
 .halfword 0xFFFF
 .halfword 0xFFFF
 
