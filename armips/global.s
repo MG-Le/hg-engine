@@ -52,3 +52,7 @@ armips/asm/trainer_ai.s - ~0x60 bytes of extra code
 
 plus all the c injection stuff.  we are not worried about that here, that is dynamically managed
 */
+
+/**** Cunstom ****/
+.include "armips/asm/custom/mart_items.s"
+
